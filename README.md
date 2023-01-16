@@ -24,7 +24,11 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
-     </a>
+  </a>
 </div>
 
-
+<style>
+#links a:hover { 
+    box-shadow: inset 0 -10px 0 0 cyan; 
+}
+</style>
