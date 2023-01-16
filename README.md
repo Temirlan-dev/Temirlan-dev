@@ -26,4 +26,4 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60" height="60"/>&nbsp;&nbsp;
   </a>
 </div>
----
+
