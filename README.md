@@ -7,7 +7,7 @@
 ### :man_technologist: About Me :
 I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> from Kyrgyzstan. 
 
-- :telescope: I’m working as a Java backend developer in fintech.
+- :telescope: I’m working as a Java & C# backend developer in fintech.
 
 - :seedling: For the last few months I have also been learning the swift language for ios development.
 
