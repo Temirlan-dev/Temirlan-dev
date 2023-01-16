@@ -6,7 +6,7 @@
 
 <div id="badges">
   <div align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/%D1%82%D0%B5%D0%BC%D0%B8%D1%80%D0%BB%D0%B0%D0%BD-%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D1%81%D1%83%D0%BD%D0%BE%D0%B2-99492a211/)">
+  <a href="https://www.linkedin.com/in/%D1%82%D0%B5%D0%BC%D0%B8%D1%80%D0%BB%D0%B0%D0%BD-%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D1%81%D1%83%D0%BD%D0%BE%D0%B2-99492a211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     </div>
