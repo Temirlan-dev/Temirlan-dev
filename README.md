@@ -26,9 +26,3 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   </a>
 </div>
-
-<style>
-#links a:hover { 
-    box-shadow: inset 0 -10px 0 0 cyan; 
-}
-</style>
