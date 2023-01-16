@@ -16,7 +16,7 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
 ---
 
 <div>
-  <a href="#">
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="60" height="60"/>&nbsp;
@@ -24,6 +24,5 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60" height="60"/>&nbsp;&nbsp;
-  </a>
 </div>
 
