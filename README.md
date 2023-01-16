@@ -5,7 +5,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a backend and ios developer  <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> from Kyrgyzstan. 
+I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> from Kyrgyzstan. 
 
 - :telescope: I’m working as a Java backend developer in fintech.
 
