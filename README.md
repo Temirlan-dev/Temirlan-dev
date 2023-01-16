@@ -17,7 +17,8 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
 
 <div>
    <a href="#">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/>  </a> ;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/> 
+  </a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
@@ -25,4 +26,5 @@ I am a backend and mobile developer  <a href="#"> <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   </a>
+  ### :man_technologist: About Me :
 </div>
